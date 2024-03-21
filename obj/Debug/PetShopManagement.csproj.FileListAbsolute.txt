@@ -1,0 +1,17 @@
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\bin\Debug\PetShopManagement.exe.config
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\bin\Debug\PetShopManagement.exe
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\bin\Debug\PetShopManagement.pdb
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.csproj.AssemblyReference.cache
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.Form1.resources
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.Properties.Resources.resources
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.csproj.GenerateResource.cache
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.exe
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.pdb
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.Login.resources
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.Ana_Sayfa.resources
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.personel.resources
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.musteri.resources
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.Urun.resources
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.Odeme.resources
+C:\Users\zeyne\source\repos\PetShopManagement\PetShopManagement\obj\Debug\PetShopManagement.Grafik.resources

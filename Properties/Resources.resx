@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="173,100+ Cartoon Dog Stock Photos, Pictures &amp; Royalty-Free Images" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\173,100+ Cartoon Dog Stock Photos, Pictures &amp; Royalty-Free Images.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Paws Pets Copy Space Background Stock Vector (Royalty Free) 518596513 _ Shutterstock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Paws Pets Copy Space Background Stock Vector (Royalty Free) 518596513 _ Shutterstock.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="home" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\home.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="indir (3)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\indir (3)1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Premium Vector _ Cute petshop logo with cat and dog" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Premium Vector _ Cute petshop logo with cat and dog.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="helppaww" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\helppaww.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dog paw vector image on VectorStock2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dog paw vector image on VectorStock2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Suziee1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Suziee1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Suziee" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Suziee.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="15238a68-a55c-4ce3-8fc7-dbec508e2dc5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\15238a68-a55c-4ce3-8fc7-dbec508e2dc5.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Paw print vector image on VectorStock2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Paw print vector image on VectorStock2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="logout" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\logout.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Exploring Kriser's Natural Pet Store - Your Sassy Self" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Exploring Kriser's Natural Pet Store - Your Sassy Self.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ödeme1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ödeme1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="products" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\products.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="indir (3)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\indir (3).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="admin2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\admin2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Is Bamboo Safe for Pets_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Is Bamboo Safe for Pets_.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="user" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ödeme" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ödeme.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Why Grain Free Kibble Isn't Good For Cats - Two Crazy Cat Ladies" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Why Grain Free Kibble Isn't Good For Cats - Two Crazy Cat Ladies.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="How Long Does It Take Cats to Digest Food_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\How Long Does It Take Cats to Digest Food_.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ekran görüntüsü 2023-12-30 011206" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ekran görüntüsü 2023-12-30 011206.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="sepet" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sepet.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="PETSS" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\PETSS.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dolphin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dolphin.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="indir (2)1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\indir (2)1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="adminss" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\adminss.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="products1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\products1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dog paw vector image on VectorStock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dog paw vector image on VectorStock.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Paws Pets Copy Space Background Stock Vector (Royalty Free) 518596513 _ Shutterstock2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Paws Pets Copy Space Background Stock Vector (Royalty Free) 518596513 _ Shutterstock2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="admin1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\admin1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="a1d1c901-be87-4f7c-94e2-d0ce9016baf5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\a1d1c901-be87-4f7c-94e2-d0ce9016baf5.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="gobackicon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\gobackicon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Dog paw vector image on VectorStock1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Dog paw vector image on VectorStock1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Animal, O Papagaio, Hamster PNG, Animal Imagens Vetoriais, Arquivos PSD - Pngtree" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Animal, O Papagaio, Hamster PNG, Animal Imagens Vetoriais, Arquivos PSD - Pngtree.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Paw print vector image on VectorStock1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Paw print vector image on VectorStock1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Is Bamboo Safe for Pets_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Is Bamboo Safe for Pets_2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="indir (3)2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\indir (3)2.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="charticon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\charticon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="dog" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\dog.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="adminss1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\adminss1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="173,100+ Cartoon Dog Stock Photos, Pictures &amp; Royalty-Free Images1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\173,100+ Cartoon Dog Stock Photos, Pictures &amp; Royalty-Free Images1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Is Bamboo Safe for Pets_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Is Bamboo Safe for Pets_1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Paws Pets Copy Space Background Stock Vector (Royalty Free) 518596513 _ Shutterstock3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Paws Pets Copy Space Background Stock Vector (Royalty Free) 518596513 _ Shutterstock3.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Paw print vector image on VectorStock" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Paw print vector image on VectorStock.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Funny Dog Faces" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Funny Dog Faces.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="indir (2)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\indir (2).jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="ödeme2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\ödeme2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foot1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\foot1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="admin" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\admin.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="lookatyouu" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\lookatyouu.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Paws Pets Copy Space Background Stock Vector (Royalty Free) 518596513 _ Shutterstock1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Paws Pets Copy Space Background Stock Vector (Royalty Free) 518596513 _ Shutterstock1.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="adminss2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\adminss2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="foot" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\foot.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="970664d6-754e-4eb0-8b3f-71226879252e" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\970664d6-754e-4eb0-8b3f-71226879252e.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="indir (3)3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\indir (3)3.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="exitİcon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\exitİcon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Home - Commercial pet photography by Elke Vogelsang, Hildesheim" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Home - Commercial pet photography by Elke Vogelsang, Hildesheim.jpeg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="paw" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\paw.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
